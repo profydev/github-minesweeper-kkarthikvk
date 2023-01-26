@@ -1,4 +1,3 @@
 {
-  "commands": [],
-  "PR check":"Checking"
+  "commands": ["clear A8"]
 }
